@@ -1,0 +1,36 @@
+﻿@model web_253501_zhalkovsky.Domain.Models.ListModel<web_253501_zhalkovsky.Domain.Entities.Dish>
+
+@{
+    var categories = ViewData["categories"] as IEnumerable<web_253501_zhalkovsky.Domain.Entities.Category>;
+    var currentCategoryNormalizedName = ViewData["currentCategoryNormalizedName"] as string;
+    var currentCategoryName = categories?.FirstOrDefault(c => c.NormalizedName == currentCategoryNormalizedName)?.Name ?? "Все";
+
+    string? category = Context.Request.Query["category"].ToString();
+}
+<script src="~/js/site.js"></script>
+<div class="col-2 border-2">
+    <ul class="nav">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                @currentCategoryName
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a class="dropdown-item" asp-controller="Product" asp-route-category="">Все</a>
+                </li>
+                @foreach (var item in categories)
+                {
+                    <li>
+                        <a class="dropdown-item" asp-controller="Product" asp-route-category="@item.NormalizedName">
+                            @item.Name
+                        </a>
+                    </li>
+                }
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<div id="product-list">
+    @await Html.PartialAsync("_ListPartial", Model)
+</div>

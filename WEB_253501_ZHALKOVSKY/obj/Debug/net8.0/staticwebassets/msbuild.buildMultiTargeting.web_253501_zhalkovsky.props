@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\web_253501_zhalkovsky.props" />
+</Project>

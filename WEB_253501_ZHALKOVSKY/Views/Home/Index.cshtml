@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>@ViewData["TitleText"]</h1>
+
+<ol>
+    @for (int i = 1; i <= 5; i++)
+    {
+        <li>Элемент списка @i</li>
+    }
+</ol>
+
+<hr/>
+
+<h2>Форма</h2>
+
+<form method="post" asp-controller="Home" asp-action="Index">
+    <div class="form-group">
+        <label for="selectItem">Выберите элемент:</label>
+        <select id="selectItem" name="selectedItem" asp-items="ViewBag.ListItems" class="form-control" style="margin-top: 10px;">
+            <option value="">-- Выберите --</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Отправить</button>
+</form>

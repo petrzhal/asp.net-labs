@@ -1,0 +1,54 @@
+﻿@model web_253501_zhalkovsky.Domain.Models.Cart
+
+<div class="container mt-4">
+    <h2 class="mb-4">Корзина заказов</h2>
+
+    @if (Model.CartItems.Any())
+    {
+        <table class="table table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Изображение</th>
+                    <th>Наименование</th>
+                    <th>Количество</th>
+                    <th>Калории</th>
+                    <th>Действие</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CartItems.Values)
+                {
+                    <tr>
+                        <td class="text-center">
+                            <img src="@item.Item.Image" alt="@item.Item.Name" class="img-thumbnail" style="max-width: 100px; max-height: 100px;">
+                        </td>
+                        <td>@item.Item.Name</td>
+                        <td>@item.Count</td>
+                        <td>@(item.Item.Calories * item.Count)</td>
+                        <td>
+                            <form asp-action="Remove" asp-route-id="@item.Item.Id" method="post" class="d-inline">
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    <i class="fa-solid fa-trash"></i> Удалить
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-between align-items-center mt-3">
+            <p class="fs-5 fw-bold">Всего калорий: @Model.TotalCalories</p>
+            <form asp-action="Clear" method="post">
+                <button type="submit" class="btn btn-warning">
+                    <i class="fa-solid fa-broom"></i> Очистить корзину
+                </button>
+            </form>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info mt-3" role="alert">
+            Корзина пуста.
+        </div>
+    }
+</div>

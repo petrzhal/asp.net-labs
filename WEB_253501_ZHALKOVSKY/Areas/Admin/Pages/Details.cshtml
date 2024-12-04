@@ -1,0 +1,58 @@
+﻿@page
+@model web_253501_zhalkovsky.Areas.Admin.Pages.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Detail</h4>
+    <hr />
+    <dl class="row">
+        @if (Model.dish != null)
+        {
+        <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.dish.Name)
+        </dt>
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.dish.Name)
+        </dd>
+        <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.dish.Description)
+        </dt>
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.dish.Description)
+        </dd>
+        <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.dish.Category)
+        </dt>
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.dish.Category.Name)
+        </dd>
+        <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.dish.Calories)
+        </dt>
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.dish.Calories)
+        </dd>
+        <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.dish.Image)
+        </dt>
+        <dd class="col-sm-10">
+                <img src="@Url.Content($"{Model.dish.Image}")" alt="Detail Image" class="img-fluid" />
+
+        </dd>
+        }
+
+        else
+        {
+            <p>Детали не найдены.</p>
+        }
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.dish.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

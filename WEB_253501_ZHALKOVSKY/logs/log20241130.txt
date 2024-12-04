@@ -1,0 +1,26 @@
+2024-11-30 21:08:23.147 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-30 21:08:23.258 +03:00 [INF] Now listening on: http://localhost:7001
+2024-11-30 21:08:23.260 +03:00 [INF] Now listening on: http://localhost:5001
+2024-11-30 21:08:23.280 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-30 21:08:23.281 +03:00 [INF] Hosting environment: Development
+2024-11-30 21:08:23.283 +03:00 [INF] Content root path: C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky
+2024-11-30 21:08:24.357 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/ - null null
+2024-11-30 21:08:24.469 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-11-30 21:08:24.485 +03:00 [INF] Executing endpoint 'web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky)'
+2024-11-30 21:08:24.502 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller web_253501_zhalkovsky.Controllers.HomeController (web_253501_zhalkovsky).
+2024-11-30 21:08:24.541 +03:00 [INF] Executing ViewResult, running view Index.
+2024-11-30 21:08:24.685 +03:00 [INF] Executed ViewResult - view Index executed in 147.8241ms.
+2024-11-30 21:08:24.690 +03:00 [INF] Executed action web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky) in 184.2205ms
+2024-11-30 21:08:24.693 +03:00 [INF] Executed endpoint 'web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky)'
+2024-11-30 21:08:24.697 +03:00 [INF] HTTP GET / responded 200 in 214.3329 ms
+2024-11-30 21:08:24.706 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/ - 200 null text/html; charset=utf-8 350.1094ms
+2024-11-30 21:08:24.714 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/web_253501_zhalkovsky.styles.css?v=iA0uqPqMAX3QXHtvNz3zShSHaHCJMKCDUxcZOYWyMvc - null null
+2024-11-30 21:08:24.714 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-30 21:08:24.714 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/js/site.js?v=pgQKFNV3AWazWf1oe72nU2ljO9WGO4xrgYgPJpaMuww - null null
+2024-11-30 21:08:24.728 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 14.1129ms
+2024-11-30 21:08:24.730 +03:00 [INF] The file /web_253501_zhalkovsky.styles.css was not modified
+2024-11-30 21:08:24.733 +03:00 [INF] The file /js/site.js was not modified
+2024-11-30 21:08:24.741 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/web_253501_zhalkovsky.styles.css?v=iA0uqPqMAX3QXHtvNz3zShSHaHCJMKCDUxcZOYWyMvc - 304 null text/css 26.8799ms
+2024-11-30 21:08:24.742 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/js/site.js?v=pgQKFNV3AWazWf1oe72nU2ljO9WGO4xrgYgPJpaMuww - 304 null text/javascript 28.1171ms
+2024-11-30 21:08:24.788 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_vs/browserLink - null null
+2024-11-30 21:08:24.844 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.0842ms

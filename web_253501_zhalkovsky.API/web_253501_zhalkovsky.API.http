@@ -1,0 +1,6 @@
+@web_253501_zhalkovsky.API_HostAddress = http://localhost:5006
+
+GET {{web_253501_zhalkovsky.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

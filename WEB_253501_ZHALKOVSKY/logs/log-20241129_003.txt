@@ -1,0 +1,2 @@
+2024-11-29 22:31:15.097 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-11-29 22:31:55.062 +03:00 [ERR] Ошибка получения данных продукта: Unauthorized

@@ -1,0 +1,373 @@
+2024-11-30 09:05:38.929 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-30 09:05:39.087 +03:00 [INF] Now listening on: http://localhost:7001
+2024-11-30 09:05:39.091 +03:00 [INF] Now listening on: http://localhost:5001
+2024-11-30 09:05:39.119 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-30 09:05:39.124 +03:00 [INF] Hosting environment: Development
+2024-11-30 09:05:39.126 +03:00 [INF] Content root path: C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky
+2024-11-30 09:05:41.079 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/ - null null
+2024-11-30 09:05:41.266 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-11-30 09:05:41.303 +03:00 [INF] Executing endpoint 'web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky)'
+2024-11-30 09:05:41.340 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller web_253501_zhalkovsky.Controllers.HomeController (web_253501_zhalkovsky).
+2024-11-30 09:05:41.407 +03:00 [INF] Executing ViewResult, running view Index.
+2024-11-30 09:05:41.601 +03:00 [INF] Executed ViewResult - view Index executed in 199.8279ms.
+2024-11-30 09:05:41.607 +03:00 [INF] Executed action web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky) in 260.5138ms
+2024-11-30 09:05:41.613 +03:00 [INF] Executed endpoint 'web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky)'
+2024-11-30 09:05:41.614 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2024-11-30 09:05:41.614 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/css/site.css?v=JoPpvJ6jynZs_lqwshSouCMJB-imV-dyGAx6JgxsRr4 - null null
+2024-11-30 09:05:41.614 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/lib/font-awesome/css/all.min.css - null null
+2024-11-30 09:05:41.633 +03:00 [INF] HTTP GET / responded 200 in 335.4553 ms
+2024-11-30 09:05:41.648 +03:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\css\site.css'
+2024-11-30 09:05:41.651 +03:00 [INF] Sending file. Request path: '/lib/font-awesome/css/all.min.css'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\lib\font-awesome\css\all.min.css'
+2024-11-30 09:05:41.651 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2024-11-30 09:05:41.655 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/ - 200 null text/html; charset=utf-8 579.1714ms
+2024-11-30 09:05:41.660 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/css/site.css?v=JoPpvJ6jynZs_lqwshSouCMJB-imV-dyGAx6JgxsRr4 - 200 126 text/css 45.9642ms
+2024-11-30 09:05:41.664 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/lib/font-awesome/css/all.min.css - 200 96518 text/css 49.6217ms
+2024-11-30 09:05:41.672 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 162720 text/css 57.8911ms
+2024-11-30 09:05:41.774 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/web_253501_zhalkovsky.styles.css?v=iA0uqPqMAX3QXHtvNz3zShSHaHCJMKCDUxcZOYWyMvc - null null
+2024-11-30 09:05:41.774 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/js/site.js - null null
+2024-11-30 09:05:41.780 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2024-11-30 09:05:41.786 +03:00 [INF] Sending file. Request path: '/web_253501_zhalkovsky.styles.css'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\obj\Debug\net8.0\scopedcss\bundle\web_253501_zhalkovsky.styles.css'
+2024-11-30 09:05:41.793 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\js\site.js'
+2024-11-30 09:05:41.801 +03:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\lib\jquery\dist\jquery.min.js'
+2024-11-30 09:05:41.803 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/web_253501_zhalkovsky.styles.css?v=iA0uqPqMAX3QXHtvNz3zShSHaHCJMKCDUxcZOYWyMvc - 200 1139 text/css 28.8393ms
+2024-11-30 09:05:41.805 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/js/site.js - 200 1136 text/javascript 30.6849ms
+2024-11-30 09:05:41.817 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/lib/jquery/dist/jquery.min.js - 200 89500 text/javascript 37.0138ms
+2024-11-30 09:05:41.822 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-30 09:05:41.825 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2024-11-30 09:05:41.839 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/js/site.js?v=nAFyWfOl4-kjmjMkjtpcFANIni20ta716gKt_FsN2eo - null null
+2024-11-30 09:05:41.845 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 22.6975ms
+2024-11-30 09:05:41.848 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2024-11-30 09:05:41.858 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\js\site.js'
+2024-11-30 09:05:41.862 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_vs/browserLink - null null
+2024-11-30 09:05:41.863 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 78468 text/javascript 37.5455ms
+2024-11-30 09:05:41.873 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/js/site.js?v=nAFyWfOl4-kjmjMkjtpcFANIni20ta716gKt_FsN2eo - 200 1136 text/javascript 33.9619ms
+2024-11-30 09:05:41.909 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.5779ms
+2024-11-30 09:05:41.923 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/lib/font-awesome/webfonts/fa-brands-400.woff2 - null null
+2024-11-30 09:05:41.923 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/lib/font-awesome/webfonts/fa-solid-900.woff2 - null null
+2024-11-30 09:05:41.943 +03:00 [INF] Sending file. Request path: '/lib/font-awesome/webfonts/fa-brands-400.woff2'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2'
+2024-11-30 09:05:41.948 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/lib/font-awesome/webfonts/fa-brands-400.woff2 - 200 118072 font/woff2 24.1862ms
+2024-11-30 09:05:41.948 +03:00 [INF] Sending file. Request path: '/lib/font-awesome/webfonts/fa-solid-900.woff2'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2'
+2024-11-30 09:05:41.962 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/lib/font-awesome/webfonts/fa-solid-900.woff2 - 200 157192 font/woff2 38.7998ms
+2024-11-30 09:05:41.985 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/favicon.ico - null null
+2024-11-30 09:05:41.995 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\favicon.ico'
+2024-11-30 09:05:42.174 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/favicon.ico - 200 5430 image/x-icon 182.5601ms
+2024-11-30 09:05:50.743 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Account/Login?area=Identity - null null
+2024-11-30 09:05:50.755 +03:00 [INF] Executing endpoint 'web_253501_zhalkovsky.Controllers.AccountController.Login (web_253501_zhalkovsky)'
+2024-11-30 09:05:50.764 +03:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Login() on controller web_253501_zhalkovsky.Controllers.AccountController (web_253501_zhalkovsky).
+2024-11-30 09:05:54.874 +03:00 [INF] Executed action web_253501_zhalkovsky.Controllers.AccountController.Login (web_253501_zhalkovsky) in 4104.8552ms
+2024-11-30 09:05:54.878 +03:00 [INF] Executed endpoint 'web_253501_zhalkovsky.Controllers.AccountController.Login (web_253501_zhalkovsky)'
+2024-11-30 09:05:54.881 +03:00 [ERR] HTTP GET /Account/Login responded 500 in 4126.6854 ms
+System.InvalidOperationException: IDX20803: Unable to obtain configuration from: 'http://localhost:8080/realms/master/.well-known/openid-configuration'. Will retry at '30.11.2024 6:05:54 +00:00'. Exception: 'System.IO.IOException: IDX20804: Unable to retrieve document from: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+ ---> System.Net.Http.HttpRequestException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:8080)
+ ---> System.Net.Sockets.SocketException (10061): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.SendAsyncAndRetryOnNetworkError(HttpClient httpClient, Uri uri)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfigurationRetriever.GetAsync(String address, IDocumentRetriever retriever, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.ConfigurationManager`1.GetConfigurationAsync(CancellationToken cancel)'.
+ ---> System.IO.IOException: IDX20804: Unable to retrieve document from: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+ ---> System.Net.Http.HttpRequestException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:8080)
+ ---> System.Net.Sockets.SocketException (10061): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.SendAsyncAndRetryOnNetworkError(HttpClient httpClient, Uri uri)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfigurationRetriever.GetAsync(String address, IDocumentRetriever retriever, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.ConfigurationManager`1.GetConfigurationAsync(CancellationToken cancel)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Protocols.ConfigurationManager`1.GetConfigurationAsync(CancellationToken cancel)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsyncInternal(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.ChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at web_253501_zhalkovsky.Controllers.AccountController.Login() in C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\Controllers\AccountController.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at web_253501_zhalkovsky.Middlewares.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\Middlewares\RequestLoggingMiddleware.cs:line 19
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-11-30 09:05:54.935 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: IDX20803: Unable to obtain configuration from: 'http://localhost:8080/realms/master/.well-known/openid-configuration'. Will retry at '30.11.2024 6:05:54 +00:00'. Exception: 'System.IO.IOException: IDX20804: Unable to retrieve document from: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+ ---> System.Net.Http.HttpRequestException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:8080)
+ ---> System.Net.Sockets.SocketException (10061): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.SendAsyncAndRetryOnNetworkError(HttpClient httpClient, Uri uri)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfigurationRetriever.GetAsync(String address, IDocumentRetriever retriever, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.ConfigurationManager`1.GetConfigurationAsync(CancellationToken cancel)'.
+ ---> System.IO.IOException: IDX20804: Unable to retrieve document from: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+ ---> System.Net.Http.HttpRequestException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:8080)
+ ---> System.Net.Sockets.SocketException (10061): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.SendAsyncAndRetryOnNetworkError(HttpClient httpClient, Uri uri)
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.GetDocumentAsync(String address, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfigurationRetriever.GetAsync(String address, IDocumentRetriever retriever, CancellationToken cancel)
+   at Microsoft.IdentityModel.Protocols.ConfigurationManager`1.GetConfigurationAsync(CancellationToken cancel)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Protocols.ConfigurationManager`1.GetConfigurationAsync(CancellationToken cancel)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsyncInternal(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.ChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at web_253501_zhalkovsky.Controllers.AccountController.Login() in C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\Controllers\AccountController.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at web_253501_zhalkovsky.Middlewares.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\Middlewares\RequestLoggingMiddleware.cs:line 19
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-11-30 09:05:55.015 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Account/Login?area=Identity - 500 null text/html; charset=utf-8 4272.123ms
+2024-11-30 09:05:55.030 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_vs/browserLink - null null
+2024-11-30 09:05:55.035 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-30 09:05:55.047 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 11.7376ms
+2024-11-30 09:05:55.050 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.5414ms
+2024-11-30 09:06:11.937 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Account/Login?area=Identity - null null
+2024-11-30 09:06:11.950 +03:00 [INF] Executing endpoint 'web_253501_zhalkovsky.Controllers.AccountController.Login (web_253501_zhalkovsky)'
+2024-11-30 09:06:11.953 +03:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Login() on controller web_253501_zhalkovsky.Controllers.AccountController (web_253501_zhalkovsky).
+2024-11-30 09:06:13.888 +03:00 [INF] AuthenticationScheme: OpenIdConnect was challenged.
+2024-11-30 09:06:13.892 +03:00 [INF] Executed action web_253501_zhalkovsky.Controllers.AccountController.Login (web_253501_zhalkovsky) in 1934.0087ms
+2024-11-30 09:06:13.894 +03:00 [INF] Executed endpoint 'web_253501_zhalkovsky.Controllers.AccountController.Login (web_253501_zhalkovsky)'
+2024-11-30 09:06:13.897 +03:00 [INF] ---> request /Account/Login returns 302
+2024-11-30 09:06:13.900 +03:00 [INF] HTTP GET /Account/Login responded 302 in 1949.6563 ms
+2024-11-30 09:06:13.903 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Account/Login?area=Identity - 302 0 null 1966.12ms
+2024-11-30 09:06:34.238 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:7001/signin-oidc - application/x-www-form-urlencoded 615
+2024-11-30 09:06:34.444 +03:00 [INF] AuthenticationScheme: Cookies signed in.
+2024-11-30 09:06:34.448 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:7001/signin-oidc - 302 0 null 210.8086ms
+2024-11-30 09:06:34.456 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/ - null null
+2024-11-30 09:06:34.464 +03:00 [INF] Executing endpoint 'web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky)'
+2024-11-30 09:06:34.467 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller web_253501_zhalkovsky.Controllers.HomeController (web_253501_zhalkovsky).
+2024-11-30 09:06:34.472 +03:00 [INF] Executing ViewResult, running view Index.
+2024-11-30 09:06:34.480 +03:00 [INF] Executed ViewResult - view Index executed in 8.829ms.
+2024-11-30 09:06:34.484 +03:00 [INF] Executed action web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky) in 13.0129ms
+2024-11-30 09:06:34.488 +03:00 [INF] Executed endpoint 'web_253501_zhalkovsky.Controllers.HomeController.Index (web_253501_zhalkovsky)'
+2024-11-30 09:06:34.490 +03:00 [INF] HTTP GET / responded 200 in 26.0572 ms
+2024-11-30 09:06:34.495 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_vs/browserLink - null null
+2024-11-30 09:06:34.495 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/ - 200 null text/html; charset=utf-8 39.1716ms
+2024-11-30 09:06:34.509 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.0462ms
+2024-11-30 09:06:34.509 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-30 09:06:34.525 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 15.9861ms
+2024-11-30 09:06:36.691 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin - null null
+2024-11-30 09:06:36.701 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:36.711 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:36.729 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:36.738 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes
+2024-11-30 09:06:36.744 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes
+2024-11-30 09:06:36.989 +03:00 [INF] Received HTTP response headers after 240.9691ms - 200
+2024-11-30 09:06:36.993 +03:00 [INF] End processing HTTP request after 255.9705ms - 200
+2024-11-30 09:06:37.013 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:37.019 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:37.022 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:37.051 +03:00 [INF] Executed page /Index in 336.8347ms
+2024-11-30 09:06:37.058 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:37.062 +03:00 [INF] HTTP GET /Admin responded 200 in 361.3740 ms
+2024-11-30 09:06:37.067 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin - 200 null text/html; charset=utf-8 375.8201ms
+2024-11-30 09:06:37.073 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-30 09:06:37.077 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/images/Снимок экрана 2023-09-13 194313.png - null null
+2024-11-30 09:06:37.086 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 12.694ms
+2024-11-30 09:06:37.100 +03:00 [INF] Sending file. Request path: '/images/Снимок экрана 2023-09-13 194313.png'. Physical path: 'C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky\wwwroot\images\Снимок экрана 2023-09-13 194313.png'
+2024-11-30 09:06:37.099 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_vs/browserLink - null null
+2024-11-30 09:06:37.105 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/images/Снимок экрана 2023-09-13 194313.png - 200 453486 image/png 27.8868ms
+2024-11-30 09:06:37.111 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.1479ms
+2024-11-30 09:06:38.804 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - null null
+2024-11-30 09:06:38.812 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:38.814 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:38.820 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:38.824 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:38.826 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:38.892 +03:00 [INF] Received HTTP response headers after 63.7929ms - 200
+2024-11-30 09:06:38.896 +03:00 [INF] End processing HTTP request after 72.0375ms - 200
+2024-11-30 09:06:38.899 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:38.901 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:38.903 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:38.912 +03:00 [INF] Executed page /Index in 95.1385ms
+2024-11-30 09:06:38.914 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - null null
+2024-11-30 09:06:38.917 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:38.924 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:38.924 +03:00 [INF] HTTP GET /Admin responded 200 in 112.7684 ms
+2024-11-30 09:06:38.926 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:38.929 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - 200 null text/html; charset=utf-8 125.1137ms
+2024-11-30 09:06:38.937 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:38.939 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:38.941 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:38.949 +03:00 [INF] Received HTTP response headers after 6.388ms - 200
+2024-11-30 09:06:38.952 +03:00 [INF] End processing HTTP request after 12.8082ms - 200
+2024-11-30 09:06:38.954 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:38.956 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:38.957 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:38.964 +03:00 [INF] Executed page /Index in 30.058ms
+2024-11-30 09:06:38.967 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:38.969 +03:00 [INF] HTTP GET /Admin responded 200 in 45.5753 ms
+2024-11-30 09:06:38.973 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - 200 null text/html; charset=utf-8 58.1661ms
+2024-11-30 09:06:40.719 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin?pageNo=3 - null null
+2024-11-30 09:06:40.725 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:40.727 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:40.730 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:40.733 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes?pageNo=3
+2024-11-30 09:06:40.736 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes?pageNo=3
+2024-11-30 09:06:40.743 +03:00 [INF] Received HTTP response headers after 4.8862ms - 200
+2024-11-30 09:06:40.746 +03:00 [INF] End processing HTTP request after 12.7074ms - 200
+2024-11-30 09:06:40.749 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:40.752 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:40.753 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:40.761 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin?pageNo=3 - null null
+2024-11-30 09:06:40.760 +03:00 [INF] Executed page /Index in 30.772ms
+2024-11-30 09:06:40.768 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:40.768 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:40.771 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:40.773 +03:00 [INF] HTTP GET /Admin responded 200 in 47.4821 ms
+2024-11-30 09:06:40.777 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:40.779 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin?pageNo=3 - 200 null text/html; charset=utf-8 60.0782ms
+2024-11-30 09:06:40.785 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes?pageNo=3
+2024-11-30 09:06:40.790 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes?pageNo=3
+2024-11-30 09:06:40.796 +03:00 [INF] Received HTTP response headers after 4.3135ms - 200
+2024-11-30 09:06:40.798 +03:00 [INF] End processing HTTP request after 13.7115ms - 200
+2024-11-30 09:06:40.801 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:40.803 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:40.805 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:40.811 +03:00 [INF] Executed page /Index in 33.6984ms
+2024-11-30 09:06:40.813 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:40.815 +03:00 [INF] HTTP GET /Admin responded 200 in 47.3521 ms
+2024-11-30 09:06:40.818 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin?pageNo=3 - 200 null text/html; charset=utf-8 57.0098ms
+2024-11-30 09:06:41.666 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - null null
+2024-11-30 09:06:41.673 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:41.677 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:41.680 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:41.684 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:41.687 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:41.693 +03:00 [INF] Received HTTP response headers after 4.5555ms - 200
+2024-11-30 09:06:41.697 +03:00 [INF] End processing HTTP request after 12.9385ms - 200
+2024-11-30 09:06:41.700 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:41.702 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:41.705 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:41.713 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - null null
+2024-11-30 09:06:41.712 +03:00 [INF] Executed page /Index in 31.9736ms
+2024-11-30 09:06:41.719 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:06:41.720 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:41.722 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:06:41.726 +03:00 [INF] HTTP GET /Admin responded 200 in 52.5998 ms
+2024-11-30 09:06:41.729 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:06:41.734 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - 200 null text/html; charset=utf-8 68.3457ms
+2024-11-30 09:06:41.735 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:41.744 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes?pageNo=2
+2024-11-30 09:06:41.751 +03:00 [INF] Received HTTP response headers after 3.0452ms - 200
+2024-11-30 09:06:41.754 +03:00 [INF] End processing HTTP request after 18.8315ms - 200
+2024-11-30 09:06:41.757 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:06:41.759 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:06:41.761 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:06:41.767 +03:00 [INF] Executed page /Index in 38.3816ms
+2024-11-30 09:06:41.770 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:06:41.772 +03:00 [INF] HTTP GET /Admin responded 200 in 52.8306 ms
+2024-11-30 09:06:41.775 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin?pageNo=2 - 200 null text/html; charset=utf-8 62.4515ms
+2024-11-30 09:10:17.739 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-30 09:10:17.900 +03:00 [INF] Now listening on: http://localhost:7001
+2024-11-30 09:10:17.903 +03:00 [INF] Now listening on: http://localhost:5001
+2024-11-30 09:10:17.944 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-30 09:10:17.947 +03:00 [INF] Hosting environment: Development
+2024-11-30 09:10:17.949 +03:00 [INF] Content root path: C:\Users\user\source\repos\WEB_253501_ZHALKOVSKY\web_253501_zhalkovsky
+2024-11-30 09:10:18.032 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/Admin - null null
+2024-11-30 09:10:18.154 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-11-30 09:10:18.176 +03:00 [INF] Executing endpoint '/Index'
+2024-11-30 09:10:18.216 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-11-30 09:10:18.245 +03:00 [INF] Executing handler method web_253501_zhalkovsky.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-11-30 09:10:18.257 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/Dishes
+2024-11-30 09:10:18.264 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/Dishes
+2024-11-30 09:10:19.590 +03:00 [INF] Received HTTP response headers after 1319.7229ms - 200
+2024-11-30 09:10:19.601 +03:00 [INF] End processing HTTP request after 1345.008ms - 200
+2024-11-30 09:10:19.629 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-11-30 09:10:19.636 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-11-30 09:10:19.639 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-11-30 09:10:19.873 +03:00 [INF] Executed page /Index in 1647.7489ms
+2024-11-30 09:10:19.879 +03:00 [INF] Executed endpoint '/Index'
+2024-11-30 09:10:19.887 +03:00 [INF] HTTP GET /Admin responded 200 in 1712.3328 ms
+2024-11-30 09:10:19.899 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/Admin - 200 null text/html; charset=utf-8 1868.2033ms
+2024-11-30 09:10:20.007 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-30 09:10:20.010 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:7001/_vs/browserLink - null null
+2024-11-30 09:10:20.020 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 13.7102ms
+2024-11-30 09:10:20.051 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.5398ms

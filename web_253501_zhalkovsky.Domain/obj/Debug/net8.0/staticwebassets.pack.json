@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.web_253501_zhalkovsky.Domain.props",
+      "PackagePath": "build\\web_253501_zhalkovsky.Domain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.web_253501_zhalkovsky.Domain.props",
+      "PackagePath": "buildMultiTargeting\\web_253501_zhalkovsky.Domain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.web_253501_zhalkovsky.Domain.props",
+      "PackagePath": "buildTransitive\\web_253501_zhalkovsky.Domain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.web_253501_zhalkovsky.Domain.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

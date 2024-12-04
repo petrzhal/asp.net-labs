@@ -1,0 +1,20 @@
+﻿@{
+    var controller = ViewContext.RouteData.Values["controller"]?.ToString()?.ToLower() ?? string.Empty;
+    var area = ViewContext.RouteData.Values["area"]?.ToString()?.ToLower() ?? string.Empty;
+}
+
+<div class="navbar-nav">
+    <a class="nav-item nav-link @(controller == "home" ? "active" : "")" asp-controller="Home" asp-action="Index">Лб 1</a>
+
+    <a class="nav-item nav-link @(controller == "product" ? "active" : "")" asp-controller="Product" asp-action="Index">Каталог</a>
+
+    @if (User.IsInRole("POWER_USER"))
+    {
+        <a class="nav-item nav-link @(area == "admin" && controller == "index" ? "active" : "")" asp-area="Admin" asp-page="/Index">Администрирование</a>
+    }
+
+    @await Component.InvokeAsync("Cart")
+</div>
+
+
+

@@ -1,0 +1,1622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFCE457-7111-4998-99D7-52D9FAD0206A}|web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFCE457-7111-4998-99D7-52D9FAD0206A}|web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj|solutionrelative:web_253501_zhalkovsky.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFCE457-7111-4998-99D7-52D9FAD0206A}|web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.tests\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFCE457-7111-4998-99D7-52D9FAD0206A}|web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj|solutionrelative:web_253501_zhalkovsky.tests\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.blazor.ssr\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE89E112-7915-4F4B-863F-50F9818372A9}|web_253501_Zhalkovsky.Blazor.SSR\\web_253501_Zhalkovsky.Blazor.SSR.csproj|solutionrelative:web_253501_zhalkovsky.blazor.ssr\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\_listpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\_listpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\fileservice\\apifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\fileservice\\apifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\fileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\fileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\categoryservice\\memorycategoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\categoryservice\\memorycategoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\authentication\\keycloaktokenaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\authentication\\keycloaktokenaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\authentication\\keycloakauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\authentication\\keycloakauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\authentication\\itokenaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\authentication\\itokenaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\itemscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\itemscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\categorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\categorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\helperclasses\\pagertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\helperclasses\\pagertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\helperclasses\\keycloakdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\helperclasses\\keycloakdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\extensions\\sessionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\extensions\\sessionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\components\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\components\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\areas\\admin\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\areas\\admin\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFCE457-7111-4998-99D7-52D9FAD0206A}|web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.tests\\web_253501_zhalkovsky.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFFCE457-7111-4998-99D7-52D9FAD0206A}|web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj|solutionrelative:web_253501_zhalkovsky.tests\\web_253501_zhalkovsky.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\productservice\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\productservice\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\VisualStudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\models\\authserverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\models\\authserverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.domain\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E323EB8-1D42-4CC8-8159-2BDCEF88EA44}|web_253501_zhalkovsky.Domain\\web_253501_zhalkovsky.Domain.csproj|solutionrelative:web_253501_zhalkovsky.domain\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky.api\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{579CD068-D990-498E-8177-71D96E98A6DE}|web_253501_zhalkovsky.API\\web_253501_zhalkovsky.API.csproj|solutionrelative:web_253501_zhalkovsky.api\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|c:\\users\\user\\source\\repos\\web_253501_zhalkovsky\\web_253501_zhalkovsky\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{179991DC-1465-4CF2-93BC-9FF00170557A}|web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj|solutionrelative:web_253501_zhalkovsky\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Program.cs",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Program.cs",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:29:38.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Routes.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Routes.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Weather.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Home.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Error.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\Entities\\Category.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:15:31.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\Entities\\Dish.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Entities\\Dish.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\Entities\\Dish.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:15:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\Cart.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\Models\\Cart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:53:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\CartItem.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\Models\\CartItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:52:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\ListModel.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\Models\\ListModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\ListModel.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\Models\\ListModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:13:22.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\ResponseData.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\Models\\ResponseData.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\Models\\ResponseData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:18:34.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Tests\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Tests\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Tests\\ProductControllerTest.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Tests\\ProductControllerTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:35:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Tests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.Tests\\ProductServiceTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:44:23.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:28.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\Error.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T14:29:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_MenuPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:46:47.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ListPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ListPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ListPartial.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ListPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:24:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:13:08.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T14:13:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:49:21.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\App.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\App.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\App.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T19:37:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Product\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T13:53:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\_ViewImports.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:45:33.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "web_253501_Zhalkovsky.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T19:41:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T18:34:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\_ViewStart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:45:34.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Program.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:37:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UriData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\UriData.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\UriData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\UriData.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\UriData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:33:11.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Cart\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Cart\\ViewCart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:01:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:10:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Account\\Register.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T22:10:25.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T20:23:38.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApiFileService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\FileService\\ApiFileService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\FileService\\ApiFileService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\FileService\\ApiFileService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\FileService\\ApiFileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:44:18.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\FileService\\IFileService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\FileService\\IFileService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\FileService\\IFileService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\FileService\\IFileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:43:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ApiCategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ApiCategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ApiCategoryService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ApiCategoryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:50:29.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MemoryCategoryService .cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\MemoryCategoryService .cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\MemoryCategoryService .cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\MemoryCategoryService .cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\MemoryCategoryService .cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:31:22.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\CategoryService\\ICategoryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:30:42.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KeycloakTokenAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakTokenAccessor.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakTokenAccessor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakTokenAccessor.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakTokenAccessor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:10:09.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "KeycloakAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakAuthService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakAuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakAuthService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\KeycloakAuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:20:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ITokenAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\ITokenAccessor.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\ITokenAccessor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\ITokenAccessor.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\ITokenAccessor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:09:40.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\Authentication\\IAuthService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\Authentication\\IAuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:42:49.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\UserCredentials.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\UserCredentials.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\UserCredentials.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:19:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\RegisterUserViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\RegisterUserViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\RegisterUserViewModel.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\RegisterUserViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:45:33.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ListDemo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ListDemo.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\ListDemo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ListDemo.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\ListDemo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:44:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ItemsContainer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ItemsContainer.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\ItemsContainer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ItemsContainer.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\ItemsContainer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:52:48.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\ErrorViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:51:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\CreateUserModel.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\CreateUserModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\CreateUserModel.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\CreateUserModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:19:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\CategoryData.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\CategoryData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\CategoryData.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\CategoryData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:48:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Models\\ApiResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:47:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Middlewares\\RequestLoggingMiddleware.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:22:05.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PagerTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\HelperClasses\\PagerTagHelper.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\HelperClasses\\PagerTagHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\HelperClasses\\PagerTagHelper.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\HelperClasses\\PagerTagHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:01:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "KeycloakData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\HelperClasses\\KeycloakData.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\HelperClasses\\KeycloakData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\HelperClasses\\KeycloakData.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\HelperClasses\\KeycloakData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:59:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\wwwroot\\js\\site.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T18:31:53.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SessionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Extensions\\SessionExtentions.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Extensions\\SessionExtentions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Extensions\\SessionExtentions.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Extensions\\SessionExtentions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:56:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HttpRequestExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Extensions\\HttpRequestExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Extensions\\HttpRequestExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:32:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Extensions\\HostingExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:21:57.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Controllers\\ProductController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:41:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:03:33.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Controllers\\CartController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:57:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Controllers\\AccountController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:47:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Components\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Components\\CartViewComponent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Components\\CartViewComponent.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Components\\CartViewComponent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:01:53.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:42:46.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:29:23.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:29:37.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:29:47.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:29:55.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:42:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:28:23.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Details.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:28:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Delete.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:28:16.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:28:12.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewStart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:28:10.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:27:48.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\appsettings.json",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T20:49:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "web_253501_zhalkovsky.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj",
+              "RelativeToolTip": "web_253501_zhalkovsky.Tests\\web_253501_zhalkovsky.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T17:57:05.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Controllers\\DishesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Controllers\\DishesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:49:15.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Controllers\\CategoriesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:50:27.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\SessionCart.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\SessionCart.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\SessionCart.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\SessionCart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:19:04.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ApiProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\ProductService\\ApiProductService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\ProductService\\ApiProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\ProductService\\ApiProductService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\ProductService\\ApiProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:51:12.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\ProductService\\IProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:32:32.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "web_253501_zhalkovsky.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj",
+              "RelativeToolTip": "web_253501_zhalkovsky\\web_253501_zhalkovsky.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T16:12:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T18:47:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "H:\\VisualStudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "H:\\VisualStudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-21T13:53:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\appsettings.json",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\appsettings.json",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T17:21:03.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Program.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Program.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:57:37.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Controllers\\FilesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:40:25.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Services\\ProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:38:53.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AuthServerData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Models\\AuthServerData.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Models\\AuthServerData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Models\\AuthServerData.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Models\\AuthServerData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:44:33.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "MemoryProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Services\\ProductService\\MemoryProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Services\\ProductService\\MemoryProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:32:46.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Data\\DbInitializer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:43:34.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Data\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:23:04.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T18:53:29.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T18:16:53.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\CategoryService.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Services\\CategoryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:38:38.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\_Imports.razor",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.Domain\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.Domain\\_Imports.razor",
+              "RelativeToolTip": "web_253501_zhalkovsky.Domain\\_Imports.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T12:14:08.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Services\\ICategoryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:38:07.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Services\\IProductService.cs",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Services\\IProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:38:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Views\\Categories\\Details.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:29:43.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "web_253501_zhalkovsky.API\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\web_253501_zhalkovsky.API\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "web_253501_zhalkovsky.API\\Views\\Categories\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:29:49.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\libman.json",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\libman.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\libman.json",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\libman.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T10:28:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WEB_253501_ZHALKOVSKY\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_253501_ZHALKOVSKY\\WEB_253501_ZHALKOVSKY\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WEB_253501_ZHALKOVSKY\\wwwroot\\css\\site.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T19:02:45.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
